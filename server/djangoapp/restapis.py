@@ -1,3 +1,4 @@
+/*jshint esversion: 8 */
 # Uncomment the imports below before you add the function code
 # import requests
 import os
